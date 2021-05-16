@@ -1,0 +1,8 @@
+﻿  Error.cpp
+  Source.cpp
+  Vector2D.cpp
+C:\Users\Vladyslaw\Desktop\Student\IT-12\Miahkikh\ООП\Part 5\Lab 1(B)\Lab_5.1(B)\Lab_5.1(B)\Vector2D.cpp(82,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Vladyslaw\Desktop\Student\IT-12\Miahkikh\ООП\Part 5\Lab 1(B)\Lab_5.1(B)\Lab_5.1(B)\Vector2D.cpp(83,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+C:\Users\Vladyslaw\Desktop\Student\IT-12\Miahkikh\ООП\Part 5\Lab 1(B)\Lab_5.1(B)\Lab_5.1(B)\Vector2D.h(31): message : see declaration of 'operator >>'
+  Generating Code...
+  Lab_5.1(B).vcxproj -> C:\Users\Vladyslaw\Desktop\Student\IT-12\Miahkikh\ООП\Part 5\Lab 1(B)\Lab_5.1(B)\Debug\Lab_5.1(B).exe
